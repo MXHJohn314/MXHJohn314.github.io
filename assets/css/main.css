@@ -3506,7 +3506,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		padding: -5vh 0 5.75em 0 ;
+		padding: 5vh 0 5.75em 0 ;
 		margin-left: auto;
 		margin-right: auto;
 	}
@@ -3594,7 +3594,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#banner {
-				padding: 20em 0 20.25em 0 ;
+				padding: 10em 0 5em 0 ;
 				background-size: auto, cover;
 				background-position: center, center;
 				margin-bottom: -6.5em;
