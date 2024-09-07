@@ -1,0 +1,23 @@
+.custom-card {
+    background-color: #141414; /* Dark background color */
+    color: #ffffff; /* White text color */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    margin: 2em auto;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+}
+
+.custom-card:hover {
+    transform: translateY(-10px); /* Moves the card up slightly on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Enhances the shadow for more depth */
+}
+
+
+.blue-link{
+    color: hwb(224 31% 0%);
+}
+
+.tab-link.active:hover {
+    color: #000000 !important;
+}

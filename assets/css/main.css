@@ -3507,6 +3507,7 @@ input, select, textarea {
 
 	#banner {
 		padding: 5vh 0 0em 0 ;
+		margin-bottom: 5em;
 		margin-left: auto;
 		margin-right: auto;
 	}
@@ -3597,7 +3598,7 @@ input, select, textarea {
 				padding: 0em 0 0em 0 ;
 				background-size: auto, cover;
 				background-position: center, center;
-				margin-bottom: -6.5em;
+				margin-bottom: 2em;
 			}
 
 		}
@@ -3605,8 +3606,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#banner {
-				padding: 10em 3em 5.375em 3em ;
-				margin-bottom: -4.75em;
+				padding: 5em 3em 1em 3em ;
 			}
 
 				#banner .inner {
@@ -3618,8 +3618,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#banner {
-				padding: 5em 2em 10.25em 2em ;
-				margin-bottom: -2.5em;
+				padding: 5em 2em 1em 2em ;
 			}
 
 				#banner .logo {
